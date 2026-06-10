@@ -1,0 +1,192 @@
+{
+  "RoomId": 32514426,
+  "Name": "PoppyPlaytime--RR",
+  "Description": "welcome to our factory where we make our famous toys! want a tour? come on by and meet the lovable Huggy!",
+  "ImageName": "ccf1dc35ea32403f8f136f5515431ffa.jpg",
+  "WarningMask": 9,
+  "CustomWarning": null,
+  "CreatorAccountId": 565902,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": true,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 0,
+  "CreatedAt": "2021-10-16T01:35:01.3730043Z",
+  "PublishedAt": "2021-10-29T08:24:24.7462761Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 873655,
+    "FavoriteCount": 668544,
+    "VisitorCount": 6546422,
+    "VisitCount": 16840186
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 40,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 123,
+  "UgcSubVersion": null,
+  "MinUgcSubVersion": null,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "32514426",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 48996808,
+      "RoomId": 32514426,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "AnimationViewer",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 4,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 58381698,
+      "RoomId": 32514426,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 40,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 215958537
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1246498,
+      "Role": 25,
+      "LastChangedByAccountId": 1246498,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 387199,
+      "Role": 25,
+      "LastChangedByAccountId": 387199,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1404397,
+      "Role": 30,
+      "LastChangedByAccountId": 1404397,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 228577,
+      "Role": 30,
+      "LastChangedByAccountId": 228577,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 904934,
+      "Role": 30,
+      "LastChangedByAccountId": 904934,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 665854,
+      "Role": 30,
+      "LastChangedByAccountId": 665854,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 31469,
+      "Role": 30,
+      "LastChangedByAccountId": 31469,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 124411,
+      "Role": 30,
+      "LastChangedByAccountId": 124411,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 565902,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "horror",
+      "Type": 0
+    },
+    {
+      "Tag": "game",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "scary",
+      "Type": 0
+    },
+    {
+      "Tag": "playtime",
+      "Type": 0
+    },
+    {
+      "Tag": "escape",
+      "Type": 0
+    },
+    {
+      "Tag": "poppyplaytime",
+      "Type": 0
+    },
+    {
+      "Tag": "seprrmonthly",
+      "Type": 2
+    }
+  ]
+}
