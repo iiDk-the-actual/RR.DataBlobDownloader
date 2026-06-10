@@ -1,0 +1,508 @@
+{
+  "RoomId": 31999119,
+  "Name": "CardsAgainstTheEndOfHumanity",
+  "Description": "When it\u2019s the end of the world and you\u2019re stranded on a highway, what better to do in your last moments than play a game of Cards Against Humanity? A party game for horrible people. Now with terrain and a custom UI!",
+  "ImageName": "9846ca63413145619aaa6b531c1f53f7.jpg",
+  "WarningMask": 34,
+  "CustomWarning": "Room may contain immature or crude content. Play at your own risk. Note: No content is against the Code of Conduct.",
+  "CreatorAccountId": 730029,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": false,
+  "MinLevel": 0,
+  "AgeRating": 2,
+  "CreatedAt": "2021-10-09T19:40:26.5165539Z",
+  "PublishedAt": "2021-11-03T01:36:29.5805464Z",
+  "BecameRRStudioRoomAt": "2025-05-15T23:41:21.5797707Z",
+  "Stats": {
+    "CheerCount": 63006,
+    "FavoriteCount": 74624,
+    "VisitorCount": 730799,
+    "VisitCount": 1929835
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 8,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": true,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 214,
+  "UgcSubVersion": 214,
+  "MinUgcSubVersion": 214,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "31999119",
+  "BoostCount": 6,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 40341574,
+      "RoomId": 31999119,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Cards",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 49271952,
+      "RoomId": 31999119,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "CardsAdult1.5",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 59614265,
+      "RoomId": 31999119,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Adult1.6",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 62993614,
+      "RoomId": 31999119,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Cards1.6",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 4976982252019441288,
+      "RoomId": 31999119,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Cards1.6_353732",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 1922542735983130333,
+      "RoomId": 31999119,
+      "CreatorAccountId": 730029,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "CardUnityRatedEm",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 2728299704901341448,
+      "RoomId": 31999119,
+      "CreatorAccountId": 730029,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "CardsUnityUpdate",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 215465574
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 11299776,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 678296,
+      "Role": 10,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 17336502,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1187936116,
+      "Role": 10,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 28256061,
+      "Role": 10,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 765302173,
+      "Role": 10,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 52806182,
+      "Role": 10,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1585774489,
+      "Role": 10,
+      "LastChangedByAccountId": 9050163,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 6063800,
+      "Role": 10,
+      "LastChangedByAccountId": 9050163,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1847639624,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1899018350,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 54463093,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2388683,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1388224525,
+      "Role": 10,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 64753088,
+      "Role": 10,
+      "LastChangedByAccountId": 43833869,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8886115,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1788643,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 9050163,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7906763,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1587147,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2539447,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3151411,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 722112,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 386806,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 279673,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 121916,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1565863,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 795911,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 929446,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15015712,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 14178624,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 271562,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7693109,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5284225,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 824049801,
+      "Role": 20,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 67885642,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 13277408,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 527164385,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 73043018,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 37103453,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 657876497,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 43833869,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7008667,
+      "Role": 20,
+      "LastChangedByAccountId": 730029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1735789,
+      "Role": 30,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 340887,
+      "Role": 30,
+      "LastChangedByAccountId": 340887,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 26875312,
+      "Role": 30,
+      "LastChangedByAccountId": 26875312,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 44562597,
+      "Role": 30,
+      "LastChangedByAccountId": 44562597,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 730029,
+      "Role": 255,
+      "LastChangedByAccountId": 1735789,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "game",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "pci",
+      "Type": 0
+    },
+    {
+      "Tag": "stranded",
+      "Type": 0
+    },
+    {
+      "Tag": "seprrmonthly",
+      "Type": 2
+    },
+    {
+      "Tag": "rrstudio",
+      "Type": 2
+    }
+  ]
+}
