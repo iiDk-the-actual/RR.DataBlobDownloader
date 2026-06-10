@@ -1,0 +1,438 @@
+{
+  "RoomId": 59202549,
+  "Name": "Face-The-Darkness",
+  "Description": "Can you face the darkness? Lets ride and find out! ",
+  "ImageName": "07c81iymdz4v02glbuw3arv6m.jpg",
+  "WarningMask": 63,
+  "CustomWarning": "Have fun!",
+  "CreatorAccountId": 4346455,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": true,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": false,
+  "MinLevel": 0,
+  "AgeRating": 2,
+  "CreatedAt": "2022-04-09T14:13:14.1014101Z",
+  "PublishedAt": "2022-07-11T15:52:59.4137789Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 195299,
+    "FavoriteCount": 155965,
+    "VisitorCount": 2069993,
+    "VisitCount": 4888654
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 20,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": true,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 153,
+  "UgcSubVersion": 153,
+  "MinUgcSubVersion": 153,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "59202549",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 60240027,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 20,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 190519765
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 61787257,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "boatride",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 61910960,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "boatride2",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 61920723,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "lab",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 64563751,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "clown",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 67420661,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "theRecRooms",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 67726850,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "ArachnidExhibit",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 68348682,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Sewers",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 69970751,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Clownride",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 69970814,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Cave",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 71245373,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "DormRoom",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 72453227,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "LevelSelect",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 3,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 3624014066548250932,
+      "RoomId": 59202549,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Gift.Shop",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 40,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 190523641
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 2166792,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4770040,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1117791,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7957349,
+      "Role": 10,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15062764,
+      "Role": 10,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4850379,
+      "Role": 10,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1512086,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 236893,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2444829,
+      "Role": 10,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 24775166,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 277089,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1311378,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 17567449,
+      "Role": 10,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 6926361,
+      "Role": 30,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2527663,
+      "Role": 30,
+      "LastChangedByAccountId": 2527663,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 271562,
+      "Role": 30,
+      "LastChangedByAccountId": 271562,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 121916,
+      "Role": 31,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 68758,
+      "Role": 31,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4346455,
+      "Role": 255,
+      "LastChangedByAccountId": 6926361,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "art",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "horror",
+      "Type": 0
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "fun",
+      "Type": 0
+    },
+    {
+      "Tag": "decrrmonthly",
+      "Type": 2
+    }
+  ]
+}
