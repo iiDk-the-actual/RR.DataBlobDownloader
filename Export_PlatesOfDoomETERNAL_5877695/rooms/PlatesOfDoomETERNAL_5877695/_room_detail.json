@@ -1,0 +1,109 @@
+{
+  "RoomId": 5877695,
+  "Name": "PlatesOfDoomETERNAL",
+  "Description": "A remake of ^PlatesOfDoom, with more ways to kill, promoting quick rounds and aggresiveness",
+  "ImageName": "1c41859299a84e9985291bf19228a415.jpg",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 790708,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": true,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": false,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 0,
+  "CreatedAt": "2020-04-22T02:01:29.2429829Z",
+  "PublishedAt": "2020-05-02T03:08:07.8066667Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 73826,
+    "FavoriteCount": 90333,
+    "VisitorCount": 781247,
+    "VisitCount": 3192141
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 9,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 153,
+  "UgcSubVersion": 153,
+  "MinUgcSubVersion": 153,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "5877695",
+  "BoostCount": 1,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 6018278,
+      "RoomId": 5877695,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 9,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 191823351
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 790708,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "game",
+      "Type": 0
+    },
+    {
+      "Tag": "fun",
+      "Type": 0
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "mayrrmonthly",
+      "Type": 2
+    }
+  ]
+}
