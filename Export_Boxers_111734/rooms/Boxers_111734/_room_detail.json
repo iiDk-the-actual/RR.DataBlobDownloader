@@ -1,0 +1,131 @@
+{
+  "RoomId": 111734,
+  "Name": "Boxers",
+  "Description": "Boxing now with damage and blocking. Just enter the ring to start the match. There are 10 rounds.",
+  "ImageName": "y3ckhKwVd0uqYt6NL7RmeA",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 3560,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": false,
+  "MinLevel": 0,
+  "AgeRating": 2,
+  "CreatedAt": "2018-06-24T09:29:34.1945297Z",
+  "PublishedAt": "2018-08-29T22:25:14.9Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 580,
+    "FavoriteCount": 867,
+    "VisitorCount": 38771,
+    "VisitCount": 48699
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 5,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 0,
+  "UgcSubVersion": null,
+  "MinUgcSubVersion": null,
+  "AutoLocalizeRoom": false,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "111734",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 111734,
+      "RoomId": 111734,
+      "CreatorAccountId": null,
+      "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 5,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 102222,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1329,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 252896,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 66530,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 154903,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3560,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "sport",
+      "Type": 0
+    },
+    {
+      "Tag": "boxing",
+      "Type": 0
+    }
+  ]
+}
