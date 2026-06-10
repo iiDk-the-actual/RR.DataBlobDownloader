@@ -1,0 +1,146 @@
+{
+  "RoomId": 65307352,
+  "Name": "DesertWarfarePvP",
+  "Description": "A Desert themed PvP! Fight, make alliances, and drive around! Go around the map find gun and explore your surroundings. Watch out for the Nukes!",
+  "ImageName": "83n7sma3n3urf0mr9yvrjkn0p.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 3673034,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 0,
+  "CreatedAt": "2022-05-20T03:04:27.8742325Z",
+  "PublishedAt": "2022-06-22T23:43:42.68277Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 95622,
+    "FavoriteCount": 70835,
+    "VisitorCount": 820946,
+    "VisitCount": 1535795
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 20,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 0,
+  "UgcSubVersion": null,
+  "MinUgcSubVersion": null,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "65307352",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 66448282,
+      "RoomId": 65307352,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 20,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 282029,
+      "Role": 20,
+      "LastChangedByAccountId": 3673034,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 234580,
+      "Role": 20,
+      "LastChangedByAccountId": 3673034,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3272005,
+      "Role": 20,
+      "LastChangedByAccountId": 3673034,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1924772,
+      "Role": 20,
+      "LastChangedByAccountId": 3673034,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3673034,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "pvp",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "action",
+      "Type": 0
+    },
+    {
+      "Tag": "fun",
+      "Type": 0
+    },
+    {
+      "Tag": "octrrmonthly",
+      "Type": 2
+    },
+    {
+      "Tag": "rp",
+      "Type": 0
+    },
+    {
+      "Tag": "desert",
+      "Type": 0
+    },
+    {
+      "Tag": "limitsv2",
+      "Type": 1
+    }
+  ]
+}
