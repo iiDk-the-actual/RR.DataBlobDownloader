@@ -1,0 +1,135 @@
+{
+  "RoomId": 6618293,
+  "Name": "RecRoomBirthday4",
+  "Description": "Happy 4th Birthday Rec Room!",
+  "ImageName": "97deed96dd494ecf8e4baf17e53a1427.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 271562,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 0,
+  "CreatedAt": "2020-05-21T15:57:14.2279253Z",
+  "PublishedAt": "2020-06-01T16:08:03.05Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 3513,
+    "FavoriteCount": 4125,
+    "VisitorCount": 56461,
+    "VisitCount": 69250
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 20,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 0,
+  "UgcSubVersion": null,
+  "MinUgcSubVersion": null,
+  "AutoLocalizeRoom": false,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "6618293",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 6771489,
+      "RoomId": 6618293,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 20,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 179907,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 68758,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 17707376,
+      "Role": 30,
+      "LastChangedByAccountId": 13,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1259740,
+      "Role": 30,
+      "LastChangedByAccountId": 1259740,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 121916,
+      "Role": 31,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 271562,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "hangout",
+      "Type": 0
+    },
+    {
+      "Tag": "art",
+      "Type": 0
+    },
+    {
+      "Tag": "birthday",
+      "Type": 0
+    }
+  ]
+}
