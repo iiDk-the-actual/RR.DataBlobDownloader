@@ -1,0 +1,607 @@
+{
+  "RoomId": 2935271,
+  "Name": "CreativeQnA",
+  "Description": "Home of creative Talks: The Rec Room Creator showcase that hopes to inspire new and existing creators in Rec Room. Attend a talk to find out how the top creators of Rec Room think and what techniques they use to create great experiences and games in Rec Room.",
+  "ImageName": "5ni0jj6ct8oz91ryyn6zgmng9.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 13411068,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 4,
+  "AgeRating": 1,
+  "CreatedAt": "2019-11-08T20:45:11.0326154Z",
+  "PublishedAt": "2020-03-17T19:08:07.4766667Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 646,
+    "FavoriteCount": 818,
+    "VisitorCount": 10531,
+    "VisitCount": 14434
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 40,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 251,
+  "UgcSubVersion": 251,
+  "MinUgcSubVersion": 37,
+  "AutoLocalizeRoom": false,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "2935271",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 75741518,
+      "RoomId": 2935271,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "QnAEvent_Camera2.0Update",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 40,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 230632904
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 122918,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 551452,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4196892,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 16270,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 179907,
+      "Role": 10,
+      "LastChangedByAccountId": 1461494,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3560,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1312288,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 198937,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 678296,
+      "Role": 20,
+      "LastChangedByAccountId": 271562,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1172265,
+      "Role": 20,
+      "LastChangedByAccountId": 1572648,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 52662546,
+      "Role": 20,
+      "LastChangedByAccountId": 64753088,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2071521,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8873122,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 69048069,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4508563,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5263505,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3705749,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 82269470,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1386462609,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1101417,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1123052,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 62783830,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15685530,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 18906967,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1169985760,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 678602,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 372074,
+      "Role": 20,
+      "LastChangedByAccountId": 13411068,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 653078,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 161131,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 9,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 11675,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2754495,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2471698,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2948289,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2312859,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2109421,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2651133,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 33569,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 88619,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 620745,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4195495,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1999,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 197898,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4618205,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 53208,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 104889,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 792847,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5195122,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5640886,
+      "Role": 30,
+      "LastChangedByAccountId": 5640886,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1461494,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 489899,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1586511,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8664501,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 47520,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7888984,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 20303,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 17707376,
+      "Role": 30,
+      "LastChangedByAccountId": 13,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 659683,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 287168,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 6,
+      "Role": 30,
+      "LastChangedByAccountId": 6,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 19173771,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 19249169,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1563266,
+      "Role": 30,
+      "LastChangedByAccountId": 1563266,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 538365,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 36846381,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 36068431,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 24267733,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 213838,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1854809,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2930324,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1714923,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 32213628,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5856009,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 58423653,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 56564549,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1736538,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 72614120,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5970476,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2110236718,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15198325,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8936897,
+      "Role": 30,
+      "LastChangedByAccountId": 8936897,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 9269625,
+      "Role": 30,
+      "LastChangedByAccountId": 9269625,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7957579,
+      "Role": 30,
+      "LastChangedByAccountId": 7957579,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 10527357,
+      "Role": 30,
+      "LastChangedByAccountId": 10527357,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 13411068,
+      "Role": 255,
+      "LastChangedByAccountId": 5208215,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "creativeclub",
+      "Type": 0
+    }
+  ]
+}
