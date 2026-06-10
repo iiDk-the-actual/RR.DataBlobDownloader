@@ -1,0 +1,102 @@
+{
+  "RoomId": 7241621186421500296,
+  "Name": "BadAppleAnimation",
+  "Description": "Bad Apple, but it's stuffed into an animation gizmo. I made this in 2021 when I was experimenting with synthetic room saves.",
+  "ImageName": "7bv4ntavmhfeu6ynyaq6388ha.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 487637,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 1,
+  "CreatedAt": "2025-05-27T04:20:57.0834921Z",
+  "PublishedAt": "2026-04-13T03:08:06.3310518Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 2,
+    "FavoriteCount": 2,
+    "VisitorCount": 15,
+    "VisitCount": 50
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 12,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 190,
+  "UgcSubVersion": 190,
+  "MinUgcSubVersion": 190,
+  "AutoLocalizeRoom": false,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "7241621186421500296",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 6240686860385823220,
+      "RoomId": 7241621186421500296,
+      "CreatorAccountId": 487637,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 487637,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "art",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "music",
+      "Type": 0
+    }
+  ]
+}
