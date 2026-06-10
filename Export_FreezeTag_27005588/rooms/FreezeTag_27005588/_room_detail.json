@@ -1,0 +1,214 @@
+{
+  "RoomId": 27005588,
+  "Name": "FreezeTag",
+  "Description": "Come play a fast-pased game of freeze tag! Thank you for 1 MILLION visits!",
+  "ImageName": "8vvs3ahggxmskgcixty3icryu.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 4805793,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": false,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 1,
+  "CreatedAt": "2021-07-24T03:15:10.7615746Z",
+  "PublishedAt": "2021-07-27T18:14:16.8950061Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 47321,
+    "FavoriteCount": 41335,
+    "VisitorCount": 514851,
+    "VisitCount": 1243988
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 8,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 138,
+  "UgcSubVersion": 138,
+  "MinUgcSubVersion": 138,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "27005588",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 27541885,
+      "RoomId": 27005588,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Map1",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 27810751,
+      "RoomId": 27005588,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Map2",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 29751682,
+      "RoomId": 27005588,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Map3",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 6612261739942279821,
+      "RoomId": 27005588,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "FreezeTagUpdated",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 8,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 231423357
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 5519611,
+      "Role": 20,
+      "LastChangedByAccountId": 4805793,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1280485824,
+      "Role": 20,
+      "LastChangedByAccountId": 4805793,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 21332850,
+      "Role": 20,
+      "LastChangedByAccountId": 4805793,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 54021131,
+      "Role": 20,
+      "LastChangedByAccountId": 4805793,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 18176888,
+      "Role": 25,
+      "LastChangedByAccountId": 4805793,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4805793,
+      "Role": 255,
+      "LastChangedByAccountId": 6426553,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "pvp",
+      "Type": 0
+    },
+    {
+      "Tag": "action",
+      "Type": 0
+    },
+    {
+      "Tag": "tag",
+      "Type": 0
+    },
+    {
+      "Tag": "parkour",
+      "Type": 0
+    },
+    {
+      "Tag": "fun",
+      "Type": 0
+    },
+    {
+      "Tag": "game",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "octrrmonthly",
+      "Type": 2
+    },
+    {
+      "Tag": "playtime",
+      "Type": 0
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    }
+  ]
+}
