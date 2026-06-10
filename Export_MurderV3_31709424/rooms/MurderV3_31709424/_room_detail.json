@@ -1,0 +1,622 @@
+{
+  "RoomId": 31709424,
+  "Name": "MurderV3",
+  "Description": "Thank you for playing MurderV3 for all these years. We'll see you in the in-between. <3\r\nKeep in touch with us on discord: discord.gg/deathmark",
+  "ImageName": "e2xv9axx05efad4nr3pn2xqy4.jpg",
+  "WarningMask": 53,
+  "CustomWarning": "Our indie game is out and we'll be adding a MurderV3 mode to it soon, join us @ discord.gg/deathmark",
+  "CreatorAccountId": 279673,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 2,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": true,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": false,
+  "MinLevel": 0,
+  "AgeRating": 2,
+  "CreatedAt": "2021-10-06T00:26:02.3127329Z",
+  "PublishedAt": "2022-03-11T06:01:51.5601901Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 168729,
+    "FavoriteCount": 153004,
+    "VisitorCount": 1673571,
+    "VisitCount": 6597178
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 12,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 256,
+  "UgcSubVersion": 256,
+  "MinUgcSubVersion": 235,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "31709424",
+  "BoostCount": 9,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 7086340209491265778,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "MurderV3_2022",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 16,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 1489149778018122492,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Remastered",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 14,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 236535293
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 2626597702531556343,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "StudioLobby",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 16,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 236916271
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 7132461160078573789,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "BuggedTwoFernsMansion",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 16,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 196448117
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 4550950397918374775,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "zMansion_HideAndSeek",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 16,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 593723766847128844,
+      "RoomId": 31709424,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "z_FilmingVersion",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 14,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 193075932
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 5797968166234266341,
+      "RoomId": 31709424,
+      "CreatorAccountId": 279673,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "z_mm_fair",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 14,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 6750183311781148995,
+      "RoomId": 31709424,
+      "CreatorAccountId": 12875090,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "TwoFernsMansion",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 198558642
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 1492802783545940318,
+      "RoomId": 31709424,
+      "CreatorAccountId": 12875090,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "MainMenu",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 197229838
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1413948,
+      "Role": 10,
+      "LastChangedByAccountId": 7906763,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4774833,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3987603,
+      "Role": 10,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3877156,
+      "Role": 10,
+      "LastChangedByAccountId": 12875090,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4119797,
+      "Role": 10,
+      "LastChangedByAccountId": 12875090,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2040945,
+      "Role": 10,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2482298,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1117791,
+      "Role": 20,
+      "LastChangedByAccountId": 207687,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1194568,
+      "Role": 20,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 58851830,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8073816,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2648106,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1801539263,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1137041051,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1973895,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 32564489,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 37408764,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1276474,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4121601,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1155163,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 402301,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2129166,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3038967,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 3179695,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 334909,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 2135398,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1977430,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1172265,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 947655,
+      "Role": 20,
+      "LastChangedByAccountId": 1793191,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 48085878,
+      "Role": 20,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 80308204,
+      "Role": 25,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 841143,
+      "Role": 25,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 52745542,
+      "Role": 25,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1990716,
+      "Role": 25,
+      "LastChangedByAccountId": 279673,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 727772,
+      "Role": 25,
+      "LastChangedByAccountId": 727772,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 31250887,
+      "Role": 25,
+      "LastChangedByAccountId": 31250887,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 717334887,
+      "Role": 25,
+      "LastChangedByAccountId": 717334887,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 207687,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 128016,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 277089,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 183579,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 18829348,
+      "Role": 30,
+      "LastChangedByAccountId": 18829348,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 805144,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 25230535,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1985038,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 327403,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1751793593,
+      "Role": 30,
+      "LastChangedByAccountId": 1751793593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 966851,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 7906763,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1218655,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 159309574,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 12875090,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1793191,
+      "Role": 30,
+      "LastChangedByAccountId": 1793191,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1027442,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 21140148,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 8493879,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1572735082,
+      "Role": 31,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 287168,
+      "Role": 31,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 279673,
+      "Role": 255,
+      "LastChangedByAccountId": 1751793593,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "action",
+      "Type": 0
+    },
+    {
+      "Tag": "roleplay",
+      "Type": 0
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "partygame",
+      "Type": 0
+    },
+    {
+      "Tag": "murder",
+      "Type": 0
+    },
+    {
+      "Tag": "game",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "murdermystery",
+      "Type": 0
+    },
+    {
+      "Tag": "rrstudio",
+      "Type": 2
+    },
+    {
+      "Tag": "nomp",
+      "Type": 0
+    }
+  ]
+}
