@@ -1,0 +1,146 @@
+{
+  "RoomId": 619605,
+  "Name": "DormRoomPVP",
+  "Description": "A different perspective of the infamous Dorm Room!",
+  "ImageName": "8iy9e8g1zbk0yzykskaqxce74.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 924029,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": true,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 1,
+  "CreatedAt": "2019-01-25T20:59:46.5422095Z",
+  "PublishedAt": "2019-01-27T17:07:56.16Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 1015840,
+    "FavoriteCount": 883491,
+    "VisitorCount": 11263948,
+    "VisitCount": 34439711
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 10,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 256,
+  "UgcSubVersion": 256,
+  "MinUgcSubVersion": 233,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "619605",
+  "BoostCount": 9,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 630997,
+      "RoomId": 619605,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 2,
+      "IsSandbox": true,
+      "MaxPlayers": 10,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": 236091272
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 730691,
+      "Role": 20,
+      "LastChangedByAccountId": 924029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15356350,
+      "Role": 20,
+      "LastChangedByAccountId": 924029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 71256442,
+      "Role": 20,
+      "LastChangedByAccountId": 924029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 735967412,
+      "Role": 20,
+      "LastChangedByAccountId": 924029,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 924029,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "pvp",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "action",
+      "Type": 0
+    },
+    {
+      "Tag": "treasurehunt",
+      "Type": 2
+    },
+    {
+      "Tag": "beta",
+      "Type": 1
+    },
+    {
+      "Tag": "octrrmonthly",
+      "Type": 2
+    },
+    {
+      "Tag": "nomp",
+      "Type": 0
+    },
+    {
+      "Tag": "rrstudio",
+      "Type": 2
+    }
+  ]
+}
