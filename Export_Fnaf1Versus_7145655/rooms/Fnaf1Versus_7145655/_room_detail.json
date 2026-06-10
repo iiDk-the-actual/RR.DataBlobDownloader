@@ -1,0 +1,168 @@
+{
+  "RoomId": 7145655,
+  "Name": "Fnaf1Versus",
+  "Description": "Fnaf1Versus one team is animatronics one team is Nightguard, can you survive?",
+  "ImageName": "2gwwndkvjr9a64rec30wwtqpn.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 19318572,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": false,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 1,
+  "CreatedAt": "2020-06-13T03:05:18.3213336Z",
+  "PublishedAt": "2020-06-13T21:07:56.5366667Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 304647,
+    "FavoriteCount": 254683,
+    "VisitorCount": 1949291,
+    "VisitCount": 4625117
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 5,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": true,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 251,
+  "UgcSubVersion": 251,
+  "MinUgcSubVersion": 229,
+  "AutoLocalizeRoom": true,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": false,
+  "RankedEntityId": "7145655",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 7315873,
+      "RoomId": 7145655,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Fnaf1",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 5,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    },
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 71295175,
+      "RoomId": 7145655,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "oshdgs",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 1,
+      "Accessibility": 0,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 2694937,
+      "Role": 20,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4584068,
+      "Role": 20,
+      "LastChangedByAccountId": 752523,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 6283077,
+      "Role": 30,
+      "LastChangedByAccountId": 6283077,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 19318572,
+      "Role": 255,
+      "LastChangedByAccountId": 752523,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 653467,
+      "Role": 0,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 30
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "quest",
+      "Type": 0
+    },
+    {
+      "Tag": "action",
+      "Type": 0
+    },
+    {
+      "Tag": "fun",
+      "Type": 0
+    },
+    {
+      "Tag": "roleplay",
+      "Type": 0
+    },
+    {
+      "Tag": "horror",
+      "Type": 0
+    },
+    {
+      "Tag": "game",
+      "Type": 0,
+      "IsPrimaryGenre": true
+    },
+    {
+      "Tag": "augrrmonthly",
+      "Type": 2
+    },
+    {
+      "Tag": "playtime",
+      "Type": 0
+    }
+  ]
+}
