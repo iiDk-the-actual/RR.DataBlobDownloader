@@ -1,0 +1,167 @@
+{
+  "RoomId": 67509648,
+  "Name": "BinIeyMegaChippy",
+  "Description": "Binley Mega Chippy the 8th wonder of the world, behold the greatness of this fish and chip shop.",
+  "ImageName": "cgjplracjkvicl8rv700h2elh.jpg",
+  "WarningMask": 0,
+  "CustomWarning": null,
+  "CreatorAccountId": 5220289,
+  "State": 0,
+  "Accessibility": 1,
+  "PublishState": 0,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "IsRecRoomApproved": false,
+  "ExcludeFromLists": false,
+  "ExcludeFromSearch": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "AgeRating": 0,
+  "CreatedAt": "2022-06-04T03:28:41.2124064Z",
+  "PublishedAt": "2022-06-10T15:55:36.1355913Z",
+  "BecameRRStudioRoomAt": null,
+  "Stats": {
+    "CheerCount": 574,
+    "FavoriteCount": 686,
+    "VisitorCount": 4862,
+    "VisitCount": 6186
+  },
+  "RankingContext": null,
+  "IsDorm": false,
+  "IsPlacePlay": false,
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 40,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": true,
+  "LoadScreenLocked": false,
+  "UgcVersion": 1,
+  "PersistenceVersion": 0,
+  "UgcSubVersion": null,
+  "MinUgcSubVersion": null,
+  "AutoLocalizeRoom": false,
+  "LocalizationContext": {
+    "TargetLocale": null,
+    "Scope": null,
+    "LocalizedFields": [
+      "Description",
+      "CustomWarning"
+    ]
+  },
+  "IsDeveloperOwned": true,
+  "RankedEntityId": "67509648",
+  "BoostCount": 0,
+  "SubRooms": [
+    {
+      "SupportsJoinInProgress": true,
+      "UseLevelBasedMatchmaking": false,
+      "UseAgeBasedMatchmaking": false,
+      "UseRecRoyaleMatchmaking": false,
+      "SubRoomId": 68707472,
+      "RoomId": 67509648,
+      "CreatorAccountId": null,
+      "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+      "Name": "Home",
+      "CurrentSave": null,
+      "LastModeratedSaveModerationState": 0,
+      "IsSandbox": true,
+      "MaxPlayers": 40,
+      "Accessibility": 1,
+      "ShouldAutoStageSaves": true,
+      "StagedSubRoomDataSaveId": null
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 6505543,
+      "Role": 10,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 9221346,
+      "Role": 10,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4468918,
+      "Role": 10,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 16918854,
+      "Role": 20,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 15591993,
+      "Role": 20,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4575982,
+      "Role": 30,
+      "LastChangedByAccountId": 4575982,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5547389,
+      "Role": 30,
+      "LastChangedByAccountId": 5547389,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 489899,
+      "Role": 30,
+      "LastChangedByAccountId": 489899,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 1259740,
+      "Role": 30,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 17471593,
+      "Role": 30,
+      "LastChangedByAccountId": 17471593,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 5220289,
+      "Role": 255,
+      "LastChangedByAccountId": null,
+      "InvitedRole": 0
+    },
+    {
+      "AccountId": 4213153,
+      "Role": 0,
+      "LastChangedByAccountId": 5220289,
+      "InvitedRole": 30
+    }
+  ],
+  "IsJuniorCreated": false,
+  "Tags": [
+    {
+      "Tag": "binley",
+      "Type": 0
+    },
+    {
+      "Tag": "megachippy",
+      "Type": 0
+    }
+  ]
+}
